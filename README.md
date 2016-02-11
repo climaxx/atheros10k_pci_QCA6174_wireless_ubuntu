@@ -6,6 +6,9 @@ These are the manually compiled firmware drivers for the Qualcomm Atheros QCA617
 You need to copy these to /lib/firmware/ath10k
 
 #Other information
+
 http://ubuntuforums.org/showthread.php?t=2300861&page=3
+
 https://bugzilla.kernel.org/show_bug.cgi?id=108791
+
 http://askubuntu.com/questions/607707/ath10k-installation
